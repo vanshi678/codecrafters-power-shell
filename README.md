@@ -1,4 +1,3 @@
-# codecrafters-power-shell
 # PowerShell Shell
 
 This project is a custom shell built in PowerShell. The goal was to understand how command-line interpreters work by implementing shell features from scratch instead of relying on the default PowerShell behavior.
